@@ -26,7 +26,7 @@ public class DemoGitTesting {
 		System.out.println("welcome url1");
 		driver.get("https://www.facebook.com/");
 		System.out.println("URL sucessfully opened");
-		Syetem.out.println("nice work");
+		System.out.println("nice work");
 	}
     
 	
