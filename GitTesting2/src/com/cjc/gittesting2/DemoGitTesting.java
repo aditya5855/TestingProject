@@ -23,7 +23,7 @@ public class DemoGitTesting {
 	@Test
 	public void url()
 	{
-		System.out.println("welcome url");
+		System.out.println("welcome url1");
 		driver.get("https://www.facebook.com/");
 		System.out.println("URL sucessfully opened");
 	}
